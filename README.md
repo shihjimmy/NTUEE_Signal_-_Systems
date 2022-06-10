@@ -1,2 +1,2 @@
-# NTUEE_Signal_-_Systems
+# NTUEE_Signal_and_Systems
 Matlab programming homework from NTUEE signal and systems 
